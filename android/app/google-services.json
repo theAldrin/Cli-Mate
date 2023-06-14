@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "490440653515",
+    "project_id": "cli-mate-4126f",
+    "storage_bucket": "cli-mate-4126f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490440653515:android:940e29ea59c3e1c8ccb94e",
+        "android_client_info": {
+          "package_name": "com.example.clima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490440653515-1jfg5dsntrg2qhncigbqag2j2emo9tcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQt3tHpC2irMYgurJlE-pV3QLaltjqC5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490440653515-1jfg5dsntrg2qhncigbqag2j2emo9tcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
