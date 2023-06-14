@@ -9,9 +9,9 @@ Know your weather forecast from your mate.
 NB : Please change the openweather api key in  lib/provider/weatherProvider.dart and paste your own API key
 
 ## Features
-Automatically acquire user current location
-Searchable location
-Hourly weather information
-7 days weather information
+Automatically acquire user current location,
+Searchable location,
+Hourly weather information,
+7 days weather information,
 
 Based on https://github.com/ArizArmeidi/FlutterWeather
