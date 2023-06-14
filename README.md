@@ -8,7 +8,7 @@ Know your weather forecast from your mate.
 #### Its a simple weather App created using Flutter and Dart and using API from OpenWeatherMap  with the additional functionality to Register and login
 NB : Please change the openweather api key in  lib/provider/weatherProvider.dart and paste your own API key
 
-##Features
+## Features
 Automatically acquire user current location
 Searchable location
 Hourly weather information
