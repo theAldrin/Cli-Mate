@@ -14,5 +14,4 @@ Searchable location,
 Hourly weather information,
 7 days weather information,
 
-Based on https://github.com/ArizArmeidi/FlutterWeather
 
